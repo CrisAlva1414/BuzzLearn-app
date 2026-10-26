@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Dark variants of the brand palette (ADR-003). Same token names as values/colors.xml.
+        Rebrand by editing these values only.
+    -->
+    <color name="brand_primary">#CFD8DC</color>
+    <color name="brand_on_primary">#1A1A1A</color>
+    <color name="brand_secondary">#B0BEC5</color>
+    <color name="brand_on_secondary">#1A1A1A</color>
+    <color name="brand_background">#121212</color>
+    <color name="brand_on_background">#ECEFF1</color>
+    <color name="brand_surface">#1E1E1E</color>
+    <color name="brand_on_surface">#ECEFF1</color>
+</resources>

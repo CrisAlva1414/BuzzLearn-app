@@ -1,0 +1,42 @@
+# Build outputs
+.gradle/
+.kotlin/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.iml
+*.log
+*.hprof
+
+# Local configuration, environment and paths
+local.properties
+.env
+.env.*
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+keystore.properties
+signing.properties
+google-services.json
+mapping.txt
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Private documentation, planning and agent state
+docs/
+state/
+AGENTS.md
+CLAUDE.md
+opencode.json
+.opencode/
+.github/

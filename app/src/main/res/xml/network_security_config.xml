@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Release: no cleartext traffic at all (ADR-002). -->
+    <base-config cleartextTrafficPermitted="false" />
+</network-security-config>

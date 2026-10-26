@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Brand palette tokens (ADR-003). This is the single source of truth for colors.
+        Rebrand by editing these values only; do not add color literals in Kotlin.
+        Keep the same token names in values-night/colors.xml.
+    -->
+    <color name="brand_primary">#455A64</color>
+    <color name="brand_on_primary">#FFFFFF</color>
+    <color name="brand_secondary">#607D8B</color>
+    <color name="brand_on_secondary">#FFFFFF</color>
+    <color name="brand_background">#F5F5F5</color>
+    <color name="brand_on_background">#1A1A1A</color>
+    <color name="brand_surface">#FFFFFF</color>
+    <color name="brand_on_surface">#1A1A1A</color>
+
+    <!-- Launcher icon background: alias to a brand token so rebranding stays resource-only. -->
+    <color name="ic_launcher_background">@color/brand_primary</color>
+</resources>
