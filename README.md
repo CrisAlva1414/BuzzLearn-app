@@ -12,7 +12,7 @@ repostería de altura, soldadura de madera, seguridad en faena, lo que sea.
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.4-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![minSdk](https://img.shields.io/badge/Android-8.0%2B%20(API%2026)-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
-[![Licencia](https://img.shields.io/badge/Licencia-open%20source-455A64)](#licencia)
+[![Licencia](https://img.shields.io/badge/Licencia-Apache%202.0-455A64)](LICENSE)
 [![Sin telemetría](https://img.shields.io/badge/telemetría-ninguna-455A64)](scripts/check-no-telemetry.sh)
 
 </div>
@@ -142,5 +142,15 @@ Construido por [Cristian](https://github.com/CrisAlva1414) y [Rzarate1](https://
 
 ## Licencia
 
-Open source. El texto de licencia se publicará junto con el primer release estable; mientras tanto,
-todos los derechos reservados por sus autores.
+**Apache License 2.0** — ver [`LICENSE`](LICENSE) y [`NOTICE`](NOTICE).
+
+Puedes usar BuzzLearn comercialmente, modificarlo, rebrandearlo y montar tu propio producto encima
+sin pedir permiso ni publicar tus cambios. La licencia incluye concesión explícita de patentes y
+mantiene tu propio contenido —cursos, ejercicios, marca— fuera de cualquier obligación de compartir.
+
+Si vas a aportar código, [`CONTRIBUTING.md`](CONTRIBUTING.md) explica la única regla que importa:
+las contribuciones entran bajo la misma licencia (inbound = outbound), sin CLA y sin ceder tu
+copyright.
+
+> BuzzLearn sigue el mismo camino que Chatwoot: producto libre que cualquiera puede self-hostear,
+> con la opción de un servicio gestionado. El software es y seguirá siendo libre.
