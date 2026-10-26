@@ -1,0 +1,18 @@
+BuzzLearn
+Copyright 2026 Cristian Álvarez and Rzarate1
+
+This product includes software developed by the BuzzLearn authors
+(https://github.com/CrisAlva1414/BuzzLearn-app).
+
+Third-party components incorporated into BuzzLearn are licensed under the
+terms provided by their respective owners. See `gradle/libs.versions.toml`
+for the dependency set and their upstream licenses.
+
+Built with:
+- Kotlin and kotlinx libraries — Apache License 2.0
+- AndroidX / Jetpack Compose — Apache License 2.0
+- Retrofit and OkHttp — Apache License 2.0
+- Coil — Apache License 2.0
+
+The BuzzLearn server/API is distributed separately and is not covered by
+this NOTICE.
